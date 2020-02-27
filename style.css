@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.container {
+  width: 100%;
+  background: pink;
+}
+
+.blocco {
+  text-align: center;
+  border: solid 1px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.nested {
+ border: solid 2px;
+  border-color: white;
+  background-color: #FAEBD7;
+}
